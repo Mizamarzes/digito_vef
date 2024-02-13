@@ -81,6 +81,7 @@ function invertirCadena(cad) {
     var unirArreglo = invertirArreglo.join("");
     return unirArreglo;
 }
+
 function multiplicar(cad) {
     let n = 0;
     let j = 1;
